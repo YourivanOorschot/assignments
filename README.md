@@ -13,4 +13,4 @@ This repository contains my assignments
 
 [EXAM R 07-06-2018] https://github.com/YourivanOorschot/assignments/blob/master/Exam_student.ipynb
 
-
+[EXAM Python 07-06-2018] https://github.com/YourivanOorschot/assignments/blob/master/exam_june_7_2018.ipynb
