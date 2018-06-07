@@ -10,3 +10,5 @@ This repository contains my assignments
 [Graded_assignment1] https://github.com/YourivanOorschot/assignments/blob/master/Graded_assignment1.ipynb
 
 [Graded_assigment_2] https://github.com/YourivanOorschot/assignments/blob/master/Graded_assignment_2.ipynb
+
+[EXAM R 07-06-2018] https://github.com/YourivanOorschot/assignments/blob/master/Exam_student.ipynb
