@@ -17,4 +17,4 @@ This repository contains my assignments
 
 [exam python 21-09-2018] 
 
-[exam R 21-09-2018] 
+[exam R 21-09-2018] https://github.com/YourivanOorschot/assignments/blob/master/exam_2_student.ipynb
