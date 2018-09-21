@@ -15,5 +15,4 @@ This repository contains my assignments
 
 [EXAM Python 07-06-2018] https://github.com/YourivanOorschot/assignments/blob/master/exam_june_7_2018.ipynb
 
-[exam python 21-09-2018] http://localhost:8888/notebooks/Downloads/exam_Sep_21_2018.ipynb
-
+[exam python 21-09-2018] 
